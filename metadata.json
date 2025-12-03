@@ -1,0 +1,5 @@
+{
+  "name": "Online Edu Live",
+  "description": "A comprehensive online learning platform for live Zoom classes, featuring role-based access for Admins, Teachers, and Students.",
+  "requestFramePermissions": []
+}
